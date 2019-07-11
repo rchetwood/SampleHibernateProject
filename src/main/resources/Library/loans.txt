@@ -1,0 +1,13 @@
+1001	Bambi	2009-01-01	1
+1001	Bambi	2013-02-04	1	
+1007	Bambi	2010-01-01	1
+1011	Bambi	2012-11-14	1
+1006	Bambi	2013-10-25	0
+1006	Bambi	2013-11-26	0
+1006	Lion King	2013-10-25	1	
+1006	Lion King	2013-12-25	0	
+1012	Database Systems	2013-02-15	1
+1017	Lion King	2013-08-23	0	
+1017	The Silver Sun	2013-08-23	0
+1018	The Silver Sun	2013-09-01	0
+1002	Eye of Sierras	2013-08-26	0

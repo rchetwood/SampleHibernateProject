@@ -1,0 +1,3 @@
+DROP TABLE loan;
+DROP TABLE user;
+DROP TABLE book;

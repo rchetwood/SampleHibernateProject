@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<hibernate-mapping>
+	<class name="edu.sjsu.cs157a.models.Book" table="book">
+		<meta attribute="class-description">
+			This class contains book details.
+		</meta>
+		
+		<id name="title" type="string" column="title"></id>
+		
+		<property name="author" column="author" type="string"/>
+		<property name="copies" column="copies" type="int"/>
+	
+	</class>
+</hibernate-mapping>

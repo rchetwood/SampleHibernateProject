@@ -1,0 +1,19 @@
+	Jason S. Wright	17	3
+	Kim	10	8
+	Jane Koffman	17	8
+	Katherine H. Lang	33	3
+	Smith	24	10
+	Juanita J. Palmer	23	2
+	Otherone with no age	\N	6
+	Ethel W. Williams	33	2
+	Someone with no age	\N	3
+	Candis C. Whitehead	66	4
+	Kim	23	4
+	Margaret F. Delmonte	28	5
+	Susan M. McKeel	62	1
+	Kim	50	1
+	Shirley A. Dehaven	52	1
+	Smith	45	2
+	Chad G. Turner	35	4
+	Suzanne J. Champine	67	5
+	Harry King	57	2
